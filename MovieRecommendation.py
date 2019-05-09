@@ -1,7 +1,6 @@
 '''
 Created on Dec 1, 2018
 
-Assignment 5
 Rating-based movie recommendation
 
 @author: lufei Guan
