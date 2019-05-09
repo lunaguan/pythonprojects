@@ -1,7 +1,6 @@
 '''
 Created on Oct 30, 2018
 
-Assignment 4
 Estimate number of students eligible for a course
 
 @author: lufei Guan
