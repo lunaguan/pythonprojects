@@ -1,8 +1,6 @@
 '''
 Created on Sep 19, 2018
 
-Assignment 2 : Citations
-
 The program must read a citation of a book, magazine article or a journal article in the APA
 style and output
 - the category (book, magazine article or a journal article) of the referenced item
