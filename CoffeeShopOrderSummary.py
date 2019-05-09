@@ -1,8 +1,6 @@
 '''
 Created on Sep 30, 2018
 
-Assignment 3
-
 Processing order data from a fictional coffee shop.
 Optimize the business operations.
 
