@@ -1,7 +1,6 @@
 '''
 Created on Dec 5, 2018
 
-Assignment 6
 Create plots visualizing movie data
 
 @author: lufei Guan
