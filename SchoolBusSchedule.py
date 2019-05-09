@@ -1,8 +1,6 @@
 '''
 Created on Sep 4, 2018
 
-Week 1 Assignment 1
-
 This is a program for determining the pricing and the arrival and departure time of the school bus to a specified location. 
 The rules of the bus operation and the requirements on the program are described below. 
 
